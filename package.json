@@ -1,0 +1,21 @@
+{
+  "name": "node-sass-custom-importer",
+  "version": "1.0.0",
+  "description": "A custom importer for node-sass to enable importing files from node packages",
+  "main": "./src",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danderu/node-sass-custom-importer.git"
+  },
+  "keywords": [
+    "node",
+    "sass",
+    "importer"
+  ],
+  "author": "Daniel de la Cruz <mail@dandel.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danderu/node-sass-custom-importer/issues"
+  },
+  "homepage": "https://github.com/danderu/node-sass-custom-importer#readme"
+}
